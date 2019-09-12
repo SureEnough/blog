@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[markdown基本用法]]></title>
+    <url>%2Fblog%2F2019%2F06%2F15%2Fmarkdown%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[markdown基本用法标题Markdown支援两种标题的语法，Setext和atx形式。Setext形式是用底线的形式。 利用=（最高阶标题）和-（第二阶标题），任何数量的=和-都可以有效果。例如： H1H2Atx形式则是用#号 在行首插入1到6个#，各对应到标题1到6阶，例如： H1H2H3H4H5H6区块引言]]></content>
+  </entry>
+</search>
