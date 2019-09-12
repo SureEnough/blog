@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[测试002]]></title>
+    <url>%2Fblog%2F2019%2F09%2F12%2F%E6%B5%8B%E8%AF%95002%2F</url>
+    <content type="text"><![CDATA[markdown基本用法]]></content>
+      <categories>
+        <category>js - nw.js</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo在next主题下如何添加分类和标签]]></title>
+    <url>%2Fblog%2F2019%2F09%2F12%2Fhexo%E5%9C%A8next%E4%B8%BB%E9%A2%98%E4%B8%8B%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%2F</url>
+    <content type="text"><![CDATA[markdown基本用法]]></content>
+      <categories>
+        <category>js - electron</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[markdown基本用法]]></title>
     <url>%2Fblog%2F2019%2F06%2F15%2Fmarkdown%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95%2F</url>
     <content type="text"><![CDATA[markdown基本用法标题Markdown支援两种标题的语法，Setext和atx形式。Setext形式是用底线的形式。 利用=（最高阶标题）和-（第二阶标题），任何数量的=和-都可以有效果。例如： H1H2Atx形式则是用#号 在行首插入1到6个#，各对应到标题1到6阶，例如： H1H2H3H4H5H6区块引言]]></content>
